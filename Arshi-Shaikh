@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Certificate Verification - Pulse Business Solutions</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f8fa;
+    color: #172b4d;
+}
+
+.container {
+    max-width: 700px;
+    margin: 40px auto;
+    background: white;
+    padding: 35px;
+    border-radius: 18px;
+    box-shadow: 0 5px 25px rgba(0,0,0,.12);
+}
+
+.logo {
+    text-align: center;
+}
+
+.logo h1 {
+    margin: 5px 0;
+    color: #092b55;
+    font-size: 34px;
+}
+
+.logo p {
+    color: #19a875;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.verified {
+    margin: 25px 0;
+    padding: 15px;
+    background: #e9f8f1;
+    border: 1px solid #19a875;
+    border-radius: 10px;
+    text-align: center;
+    color: #08784f;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    color: #092b55;
+}
+
+.details {
+    margin-top: 25px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    padding: 13px 0;
+    border-bottom: 1px solid #ddd;
+    gap: 20px;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+    color: #666;
+}
+
+.green {
+    color: #19a875;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="logo">
+    <h1>PULSE</h1>
+    <p>BUSINESS SOLUTIONS</p>
+</div>
+
+<div class="verified">
+    ✓ CERTIFICATE VERIFIED
+</div>
+
+<h2>Internship Certificate</h2>
+
+<div class="details">
+
+<div class="row">
+<span class="label">Student Name</span>
+<span>Arshi Shaikh</span>
+</div>
+
+<div class="row">
+<span class="label">Father's Name</span>
+<span>Abdul Habib Shaikh</span>
+</div>
+
+<div class="row">
+<span class="label">Course</span>
+<span>Bachelor of Computer Applications (BCA)</span>
+</div>
+
+<div class="row">
+<span class="label">Level</span>
+<span>Undergraduate</span>
+</div>
+
+<div class="row">
+<span class="label">Year / Semester</span>
+<span>3rd Year / 5th Semester</span>
+</div>
+
+<div class="row">
+<span class="label">Roll Number</span>
+<span>13</span>
+</div>
+
+<div class="row">
+<span class="label">Internship Duration</span>
+<span>10-Nov-2026 to 10-Dec-2026</span>
+</div>
+
+<div class="row">
+<span class="label">Internship Hours</span>
+<span>120 Hours</span>
+</div>
+
+<div class="row">
+<span class="label">Organisation</span>
+<span>Pulse Business Solutions, Tonk</span>
+</div>
+
+<div class="row">
+<span class="label">Verification ID</span>
+<span>PBS-ARSHI-13-2026</span>
+</div>
+
+</div>
+
+<div class="footer">
+
+<p><strong>Authorised Signatory</strong></p>
+
+<p>
+Abdul Qadir Khan<br>
+Director, Pulse Business Solutions
+</p>
+
+<p class="green">
+Near Saint Anslem School, Tonk
+</p>
+
+<p>
+8387818222<br>
+Pulsebusinesssolutions25@gmail.com
+</p>
+
+<p>© 2026 Pulse Business Solutions</p>
+
+</div>
+
+</div>
+
+</body>
+</html>
